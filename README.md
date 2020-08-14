@@ -1,4 +1,4 @@
-### :wave: Hi,**
+### :wave: Hi,
 
 My name is Mobarak Hosen Shakil. I have completed Bachelor of Science degree in Information and Communication Technology from Islamic University, Bangladesh. I'm a computer science enthusiast who loves to solve programming problems, learning new things (algorithms, tools), and working with data.
  
