@@ -31,4 +31,4 @@ My name is Mobarak Hosen Shakil. I have completed Bachelor of Science degree in 
 - :email: mh.ice.iu@gmail.com
 
 
-[![ ](http://hits.dwyl.com/imshakil/imshakil.svg)](http://hits.dwyl.com/imshakil/imshakil)
+[![HitCount](http://hits.dwyl.com/imshakil/imshakil.svg)](http://hits.dwyl.com/imshakil/imshakil)
