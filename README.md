@@ -26,9 +26,15 @@ My name is Mobarak Hosen Shakil. I have completed Bachelor of Science degree in 
 <a href="https://twitter.com/mhiceiuk" target="_blank"><img width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://instagram.com/mhshakil_ice_iu" target="_blank"><img width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-**Contact**
-
-- :email: mh.ice.iu@gmail.com
-
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimshakil%2Fimshakil)](https://imshakil.github.io)
+
+## My Stats
+
+<p align="center" >
+  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshakil&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
+
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=imshakil&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
+</p>
+
+<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=imshakil&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
+
