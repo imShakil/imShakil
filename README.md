@@ -24,7 +24,7 @@ My name is Mobarak Hosen Shakil. I have completed Bachelor of Science degree in 
 
 <a href="https://linkedin.com/in/imshakil" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://twitter.com/mhiceiuk" target="_blank"><img width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://instagram.com/mhshakil_ice_iu" target="_blank"><img width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+<a href="https://instagram.com/imshakil.ig" target="_blank"><img width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimshakil%2Fimshakil)](https://imshakil.github.io)
 
