@@ -4,7 +4,7 @@ My name is Mobarak Hosen Shakil. I have completed Bachelor of Science degree in 
  
 **Currently**
 - :office: I'm working at [Gluu Federation](https://github.com/GluuFederation)
-- :pencil: I write articles at [medium](https://medium.com/imshakil)
+- :pencil: I write articles at [medium](https://medium.com/@imshakil)
 
 **Recently, I've worked on**
 - :arrow_right: [Openning Jobs Scraping](https://github.com/big0one/jobs-in-mail-bd)
