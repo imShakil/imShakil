@@ -1,6 +1,6 @@
 ### :wave: Hi,
 
-My name is Mobarak Hosen Shakil. I have completed Bachelor of Science degree in Information and Communication Technology from Islamic University, Bangladesh. I'm a computer science enthusiast who loves to solve programming problems, learning new things (algorithms, tools), and working with data.
+My name is Mobarak Hosen Shakil. I have completed Bachelor of Science degree in Information and Communication Technology from Islamic University, Bangladesh. I'm a computer science enthusiast, loves to solve problems, exploring new technologies, and working with data.
  
 **Currently**
 - :office: I'm working at [Gluu Federation](https://github.com/GluuFederation)
@@ -26,7 +26,7 @@ My name is Mobarak Hosen Shakil. I have completed Bachelor of Science degree in 
 <a href="https://twitter.com/mhiceiuk" target="_blank"><img width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://instagram.com/imshakil.ig" target="_blank"><img width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fimshakil%2Fimshakil)](https://imshakil.github.io)
+![](https://komarev.com/ghpvc/?username=imshakil)
 
 ## My Stats
 
