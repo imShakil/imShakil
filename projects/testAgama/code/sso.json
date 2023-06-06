@@ -1,56 +1,154 @@
-[
-  {
-    "id": "Agama-start-Flow-46ffa516-5895-4e95-9347-ba776a42155a",
-    "type": "start",
-    "sourcePosition": "right",
-    "data": {
-      "id": "Agama-start-Flow-46ffa516-5895-4e95-9347-ba776a42155a",
-      "type": "Agama-start-Flow",
-      "position": {
-        "x": 30,
-        "y": 30
-      },
-      "handles": [],
-      "inRepeatBlock": false,
-      "agamaData": {
-        "id": "Agama-start-Flow-46ffa516-5895-4e95-9347-ba776a42155a",
-        "type": "Agama-start-Flow",
-        "hasSuccess": false,
-        "hasFailure": false,
-        "hasRepeat": false,
-        "hasNoRepeat": false,
-        "inRepeatBlock": false,
-        "name": "",
-        "basepath": "",
-        "comment": "",
-        "notes": "",
-        "flowfilename": "",
-        "assignments": [],
-        "callType": "Call static method",
-        "arguments": "",
-        "logMessage": "",
-        "templatePath": "",
-        "maxIteration": "",
-        "idpAuthEndpoint": "",
-        "variableField": "",
-        "conditionInputField": "",
-        "valueField": "",
-        "returnVariable": "",
-        "javaClassName": "",
-        "javaMethodName": "",
-        "javaVariableName": "",
-        "maxIterationVariableName": "",
-        "logLevel": "",
-        "assignCallbackResult": "",
-        "displayName": "openid-sso",
-        "nodeColor": "",
-        "exceptionVariableField": "",
-        "flowname": "sso"
-      }
-    },
-    "position": {
-      "x": 30,
-      "y": 30
-    }
-  }
-]
+{
+	"nodes": [
+		{
+			"width": 170,
+			"height": 122,
+			"id": "Agama-rrf-Node-f9f681ed-a8ec-47ec-b4a5-d3ddd1b2bfa6",
+			"position": {
+				"x": 410.42604479129864,
+				"y": 22.358550498479758
+			},
+			"type": "rrf",
+			"data": {
+				"id": "Agama-rrf-Node-f9f681ed-a8ec-47ec-b4a5-d3ddd1b2bfa6",
+				"type": "Agama-rrf-Node",
+				"parentId": "Agama-start-Flow-46ffa516-5895-4e95-9347-ba776a42155a",
+				"whenCondition": "",
+				"inRepeatBlock": false,
+				"handles": [],
+				"position": {
+					"x": 410.42604479129864,
+					"y": 22.358550498479758
+				},
+				"agamaData": {
+					"id": "Agama-rrf-Node-f9f681ed-a8ec-47ec-b4a5-d3ddd1b2bfa6",
+					"type": "Agama-rrf-Node",
+					"hasSuccess": false,
+					"hasFailure": false,
+					"hasRepeat": false,
+					"hasNoRepeat": false,
+					"whenCondition": "",
+					"inRepeatBlock": false,
+					"parentId": "Agama-start-Flow-46ffa516-5895-4e95-9347-ba776a42155a",
+					"name": "",
+					"basepath": "",
+					"comment": "",
+					"notes": "",
+					"flowfilename": "",
+					"assignments": [],
+					"callType": "Call static method",
+					"arguments": "",
+					"logMessage": "",
+					"templatePath": "",
+					"maxIteration": "",
+					"idpAuthEndpoint": "",
+					"variableField": "",
+					"conditionInputField": "",
+					"valueField": "",
+					"returnVariable": "",
+					"javaClassName": "",
+					"javaMethodName": "",
+					"javaVariableName": "",
+					"maxIterationVariableName": "",
+					"logLevel": "",
+					"assignCallbackResult": "",
+					"displayName": "",
+					"nodeColor": "",
+					"exceptionVariableField": ""
+				}
+			},
+			"selected": true,
+			"positionAbsolute": {
+				"x": 410.42604479129864,
+				"y": 22.358550498479758
+			},
+			"dragging": false
+		},
+		{
+			"width": 170,
+			"height": 122,
+			"id": "Agama-start-Flow-46ffa516-5895-4e95-9347-ba776a42155a",
+			"type": "start",
+			"sourcePosition": "right",
+			"data": {
+				"id": "Agama-start-Flow-46ffa516-5895-4e95-9347-ba776a42155a",
+				"type": "Agama-start-Flow",
+				"position": {
+					"x": 97.52140326545532,
+					"y": 12.396376246199509
+				},
+				"handles": [],
+				"inRepeatBlock": false,
+				"agamaData": {
+					"id": "Agama-start-Flow-46ffa516-5895-4e95-9347-ba776a42155a",
+					"type": "Agama-start-Flow",
+					"hasSuccess": "",
+					"hasFailure": "",
+					"hasRepeat": false,
+					"hasNoRepeat": false,
+					"inRepeatBlock": false,
+					"name": "",
+					"basepath": "",
+					"comment": "",
+					"notes": "",
+					"flowfilename": "",
+					"assignments": [],
+					"callType": "Call static method",
+					"arguments": "",
+					"logMessage": "",
+					"templatePath": "",
+					"maxIteration": "",
+					"idpAuthEndpoint": "",
+					"variableField": "",
+					"conditionInputField": "",
+					"valueField": "",
+					"returnVariable": "",
+					"javaClassName": "",
+					"javaMethodName": "",
+					"javaVariableName": "",
+					"maxIterationVariableName": "",
+					"logLevel": "",
+					"assignCallbackResult": "",
+					"displayName": "openid-sso",
+					"nodeColor": "",
+					"exceptionVariableField": "",
+					"flowname": "sso"
+				}
+			},
+			"position": {
+				"x": 97.52140326545532,
+				"y": 12.396376246199509
+			},
+			"selected": false,
+			"positionAbsolute": {
+				"x": 97.52140326545532,
+				"y": 12.396376246199509
+			},
+			"dragging": false
+		}
+	],
+	"edges": [
+		{
+			"id": "Agama-start-Flow-46ffa516-5895-4e95-9347-ba776a42155a-Agama-rrf-Node-f9f681ed-a8ec-47ec-b4a5-d3ddd1b2bfa6-912f23f5-6627-4c70-b994-0b9558f346ce",
+			"type": "straight",
+			"source": "Agama-start-Flow-46ffa516-5895-4e95-9347-ba776a42155a",
+			"target": "Agama-rrf-Node-f9f681ed-a8ec-47ec-b4a5-d3ddd1b2bfa6",
+			"label": "",
+			"labelBgPadding": [
+				8,
+				4
+			],
+			"labelBgBorderRadius": 4,
+			"labelBgStyle": {
+				"fill": "#FFCC00",
+				"color": "#fff",
+				"fillOpacity": 0.7
+			}
+		}
+	],
+	"viewport": {
+		"x": -16.165900314976568,
+		"y": 89.73842524252146,
+		"zoom": 0.9034172432729674
+	}
+}
