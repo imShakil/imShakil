@@ -1,1 +1,13 @@
-{}
+{
+    "testAgama": {
+        "projectName": "testAgama",
+        "description": "testing agama lab",
+        "type": "community",
+        "author": "imShakil",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/imShakil/imShakil",
+        "githubUri": "https://github.com/imShakil/imShakil",
+        "license": "MIT",
+        "lastUpdated": "1686024403287"
+    }
+}
