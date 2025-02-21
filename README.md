@@ -1,6 +1,6 @@
-### Assalamu-alaikum,
+# Hi there! 👋 I'm Mobarak Hosen Shakil  
 
-My name is **Mobarak Hosen Shakil**, a Bangladeshi tech enthusiast.
+🚀 **DevOps Enthusiast | Technical Support Engineer**
  
 **Currently**
 - :office: I'm working at [Gluu Federation](https://github.com/GluuFederation)
