@@ -7,9 +7,13 @@ Passionate about solving complex technical challenges, I specialize in customer 
 I thrive in fast-paced environments where I can automate, secure, and scale systems to improve efficiency. From setting up cloud-native applications to fine-tuning CI/CD pipelines, I enjoy making technology work seamlessly.
 
 💡 Key Expertise:
+
 ✅ Identity & Access Management (IAM, SSO)
+
 ✅ Troubleshooting & Technical Support
+
 ✅ CI/CD, Automation & Security Best Practices
+
 ✅ Linux, Docker, Kubernetes, and Cloud Platforms
 
 Currently, I’m focused on refining my professional communication skills to engage effectively with global teams and customers. Always eager to learn, experiment, and share knowledge!
