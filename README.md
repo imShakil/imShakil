@@ -2,29 +2,23 @@
 
 🚀 **DevOps Enthusiast | Technical Support Engineer**
  
-**Currently**
-- :office: I'm working at [Gluu Federation](https://github.com/GluuFederation)
-- :pencil: I write articles at [medium](https://medium.com/@imshakil)
+Passionate about solving complex technical challenges, I specialize in customer support, troubleshooting, and Identity & Access Management (IAM). As a Technical Support Engineer, I have hands-on experience troubleshooting and optimizing authentication solutions, including SAML, OAuth2, and OpenID Connect (OIDC).
 
-**Recently, I've worked on**
-- :arrow_right: [Openning Jobs Scraping](https://github.com/big0one/jobs-in-mail-bd)
-- :arrow_right: [covid-19 bd news scraping](https://github.com/big0one/covid-19)
+I thrive in fast-paced environments where I can automate, secure, and scale systems to improve efficiency. From setting up cloud-native applications to fine-tuning CI/CD pipelines, I enjoy making technology work seamlessly.
 
-<!--
-**Skills, I've achieved**
-- Python
-- C/C++
-- Java
-- HTML
-- CSS
-- SQL
--->
+💡 Key Expertise:
+✅ Identity & Access Management (IAM, SSO)
+✅ Troubleshooting & Technical Support
+✅ CI/CD, Automation & Security Best Practices
+✅ Linux, Docker, Kubernetes, and Cloud Platforms
+
+Currently, I’m focused on refining my professional communication skills to engage effectively with global teams and customers. Always eager to learn, experiment, and share knowledge!
+
+Let’s connect and talk tech! 🚀
 
 **Reach me at**
 
 <a href="https://linkedin.com/in/imshakil" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://twitter.com/mhiceiuk" target="_blank"><img width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-<a href="https://instagram.com/imshakil.ig" target="_blank"><img width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
 ![](https://komarev.com/ghpvc/?username=imshakil)
 
