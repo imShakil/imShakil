@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/Mobarak%20Hosen-blue?style=flat&label=Linkedin)](https://www.linkedin.com/in/imshakil)
 [![Blog](https://img.shields.io/badge/ShakilOps-red?style=flat&logo=youtube&logoColor=white&label=Youtube)](https://youtube.com/@ShakilOps)
-[![Medium](https://img.shields.io/badge/Medium-imshakil-orange)](https://medium/com/@imshakil)
+[![Medium](https://img.shields.io/badge/Medium-imshakil-orange)](https://medium.com/@imshakil)
 [![Blog](https://img.shields.io/badge/Blog-imshakil-green)](https://imshakil.github.io)
 
 ## Summary
@@ -56,7 +56,9 @@ I thrive in fast-paced environments where I can automate, secure, and scale syst
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=imshakil&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
 </p> -->
 
-![langauge](https://github-readme-stats.vercel.app/api/top-langs/?username=imshakil&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5)
+![langauge](https://github-readme-stats.vercel.app/api/top-langs/?username=imshakil&hide_progress=true&hide=html,lua,c,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=10)
 ![repository](https://github-readme-stats.vercel.app/api?username=imshakil&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true)
-![Achievements](https://github-profile-trophy.vercel.app/?username=imshakil&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true)
+![Achievements](https://github-profile-trophy.vercel.app/?username=imshakil&theme=gruvbox&count_private=true)
+<!-- [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imshakil)](https://github.com/anuraghazra/github-readme-stats)
+![views](https://hit.yhype.me/github/profile?account_id=20867846) -->
 ![Views](https://komarev.com/ghpvc/?username=imshakil)
