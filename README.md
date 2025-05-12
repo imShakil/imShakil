@@ -61,4 +61,5 @@ I thrive in fast-paced environments where I can automate, secure, and scale syst
 ![Achievements](https://github-profile-trophy.vercel.app/?username=imshakil&theme=gruvbox&count_private=true)
 <!-- [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imshakil)](https://github.com/anuraghazra/github-readme-stats)
 ![views](https://hit.yhype.me/github/profile?account_id=20867846) -->
+[![wakatime](https://wakatime.com/badge/user/9cc79b11-4d33-4c8e-918e-6503b22946fc.svg)](https://wakatime.com/@9cc79b11-4d33-4c8e-918e-6503b22946fc)
 ![Views](https://komarev.com/ghpvc/?username=imshakil)
