@@ -3,7 +3,7 @@
 # Mobarak Hosen Shakil
 
 [![LinkedIn](https://img.shields.io/badge/Mobarak%20Hosen-blue?style=flat&label=Linkedin)](https://www.linkedin.com/in/imshakil)
-[![Blog](https://img.shields.io/badge/ShakilOps-red?style=flat&logo=youtube&logoColor=white&label=Youtube)](https://imshakil.github.io)
+[![Blog](https://img.shields.io/badge/ShakilOps-red?style=flat&logo=youtube&logoColor=white&label=Youtube)](https://youtube.com/@ShakilOps)
 [![Medium](https://img.shields.io/badge/Medium-imshakil-orange)](https://medium/com/@imshakil)
 [![Blog](https://img.shields.io/badge/Blog-imshakil-green)](https://imshakil.github.io)
 
