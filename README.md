@@ -1,40 +1,62 @@
-# Hi there! 👋 I'm Mobarak Hosen Shakil  
+### Hi there! 👋 Welcome to GitHub Profile
 
-🚀 **DevOps Enthusiast | Technical Support Engineer**
- 
+# Mobarak Hosen Shakil
+
+[![LinkedIn](https://img.shields.io/badge/Mobarak%20Hosen-blue?style=flat&label=Linkedin)](https://www.linkedin.com/in/imshakil)
+[![Blog](https://img.shields.io/badge/ShakilOps-red?style=flat&logo=youtube&logoColor=white&label=Youtube)](https://imshakil.github.io)
+[![Medium](https://img.shields.io/badge/Medium-imshakil-orange)](https://medium/com/@imshakil)
+[![Blog](https://img.shields.io/badge/Blog-imshakil-green)](https://imshakil.github.io)
+
+## Summary
+
 Passionate about solving complex technical challenges, I specialize in customer support, troubleshooting, and Identity & Access Management (IAM). As a Technical Support Engineer, I have hands-on experience troubleshooting and optimizing authentication solutions, including SAML, OAuth2, and OpenID Connect (OIDC).
 
 I thrive in fast-paced environments where I can automate, secure, and scale systems to improve efficiency. From setting up cloud-native applications to fine-tuning CI/CD pipelines, I enjoy making technology work seamlessly.
 
-💡 Key Expertise:
+## Skills
 
-✅ Identity & Access Management (IAM, SSO)
+- **DevOps**: Linux, Docker, Kubernetes, Terraform, CI/CD, Nginx
+- **Continuous Integration/Continuous Deployment (CI/CD)**: Github Actions, GitLab CI/CD, Jenkins
+- **Cloud Platforms**: AWS, Google Cloud
+- **Scripting/Programming/Software Engineering**: C++, Python, Bash
+- **Version Control**: Git, GitHub, GitLab
+- **Infrastructure as Code (IaC)**: Terraform
+- **Identity Access Management**: Gluu, Keycloak, WSO2, Azure, SAML, OAuth, OpenID, Passport
+- **Collaboration Tools**: Zoom, Slack, Discord, Jira
+- **Web Development**: HTML, CSS, Flask (Python)
 
-✅ Troubleshooting & Technical Support
+## Experience
 
-✅ CI/CD, Automation & Security Best Practices
+### Technical Support Engineer
 
-✅ Linux, Docker, Kubernetes, and Cloud Platforms
+**Gluu Federation** - Remote, USA
 
-Currently, I’m focused on refining my professional communication skills to engage effectively with global teams and customers. Always eager to learn, experiment, and share knowledge!
+- Provided Tier 1/2 customer supports for community users and enterprise clients implementing Gluu Server for IAM and SSO solutions.
 
-Let’s connect and talk tech! 🚀
+- Collaborated closely with customers to diagnose and resolve authentication, authorization, and directory integration challenges, maintaining over 90% customer satisfaction by adhering to SLO and reported to Engineers on incidents.
 
-**Reach me at**
+- Tested APIs, authentication modules, and documented third-party SSO integration
 
-<a href="https://linkedin.com/in/imshakil" target="_blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+## Education
 
-![](https://komarev.com/ghpvc/?username=imshakil)
+**Islamic University, Bangladesh** - Kushtia, Bangladesh
+
+- Bachelor of Science in Information and Communication Technology (ICT)
+
+## Contact
+
+- [LinkedIn](https://linkedin.com/in/imshakil)
+- [Email](mailto:mh.ice.iu@gmail.com)
 
 ## My Stats
 
-<p align="center" >
+<!-- <p align="center" >
   <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshakil&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
 
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=imshakil&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
-</p>
+</p> -->
 
-<!-- 
-<img align="center" height="200" src="https://github-profile-trophy.vercel.app/?username=imshakil&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true"/>
-
--->
+![langauge](https://github-readme-stats.vercel.app/api/top-langs/?username=imshakil&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5)
+![repository](https://github-readme-stats.vercel.app/api?username=imshakil&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true)
+![Achievements](https://github-profile-trophy.vercel.app/?username=imshakil&theme=gruvbox&row=2&margin-w=5&margin-h=5&count_private=true)
+![Views](https://komarev.com/ghpvc/?username=imshakil)
