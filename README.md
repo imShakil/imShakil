@@ -1,4 +1,5 @@
-### Hi there! 👋 Welcome to GitHub Profile
+### Hi there! 👋 Welcome to My GitHub Profile
+
 
 # Mobarak Hosen Shakil
 
@@ -50,16 +51,9 @@ I thrive in fast-paced environments where I can automate, secure, and scale syst
 
 ## My Stats
 
-<!-- <p align="center" >
-  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imshakil&hide=html,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=5" />
-
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=imshakil&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true" />
-</p> -->
-
-![langauge](https://github-readme-stats.vercel.app/api/top-langs/?username=imshakil&hide_progress=true&hide=html,lua,c,makefile&bg_color=21223e&title_color=f6c819&text_color=fff&count_private=true&langs_count=10)
-![repository](https://github-readme-stats.vercel.app/api?username=imshakil&bg_color=21223e&title_color=f6c819&text_color=fff&show_icons=true&icon_color=fff&count_private=true)
-![Achievements](https://github-profile-trophy.vercel.app/?username=imshakil&theme=gruvbox&count_private=true)
-<!-- [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imshakil)](https://github.com/anuraghazra/github-readme-stats)
-![views](https://hit.yhype.me/github/profile?account_id=20867846) -->
-[![wakatime](https://wakatime.com/badge/user/9cc79b11-4d33-4c8e-918e-6503b22946fc.svg)](https://wakatime.com/@9cc79b11-4d33-4c8e-918e-6503b22946fc)
+![langauge](https://github-readme-stats.vercel.app/api/top-langs/?username=imshakil&hide_progress=true&hide=html,lua,c,makefile&theme=vue-dark&count_private=true&langs_count=10)
+![repository](https://github-readme-stats.vercel.app/api?username=imshakil&theme=vue-dark&count_private=true)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imshakil&theme=vue-dark)](https://github.com/imShakil)
+![Achievements](https://github-profile-trophy.vercel.app/?username=imshakil&theme=discord&count_private=true&column=-1)
+[![wakatime](https://wakatime.com/badge/user/9cc79b11-4d33-4c8e-918e-6503b22946fc.svg)](https://wakatime.com/@imShakil)
 ![Views](https://komarev.com/ghpvc/?username=imshakil)
