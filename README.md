@@ -52,10 +52,14 @@ I thrive in fast-paced environments where I can automate, secure, and scale syst
 ## My Stats
 
 [![leetcode](https://leetcard.jacoblin.cool/imshakil?animation=true)](https://leetcode.com/u/imshakil)
+
 ![langauge](https://github-readme-stats.vercel.app/api/top-langs/?username=imshakil&hide_progress=true&hide=html,lua,c,makefile&theme=vue-dark&count_private=true&langs_count=10)
 ![repository](https://github-readme-stats.vercel.app/api?username=imshakil&theme=vue-dark&count_private=true)
+
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imshakil&theme=vue-dark)](https://github.com/imShakil)
+
 ![Achievements](https://github-profile-trophy.vercel.app/?username=imshakil&theme=discord&count_private=true&column=-1)
+
 [![LeetCode](https://img.shields.io/badge/leetcode-imshakil-yellow?&logo=leetcode)](https://leetcode.com/u/imshakil)
 [![wakatime](https://wakatime.com/badge/user/9cc79b11-4d33-4c8e-918e-6503b22946fc.svg)](https://wakatime.com/@imShakil)
 ![Views](https://komarev.com/ghpvc/?username=imshakil)
