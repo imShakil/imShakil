@@ -3,10 +3,10 @@
 
 # Mobarak Hosen Shakil
 
+[![Youtube](https://img.shields.io/badge/ShakilOps-red?style=flat&label=Youtube)](https://youtube.com/@ShakilOps)
 [![LinkedIn](https://img.shields.io/badge/Mobarak%20Hosen-blue?style=flat&label=Linkedin)](https://www.linkedin.com/in/imshakil)
-[![Blog](https://img.shields.io/badge/ShakilOps-red?style=flat&logo=youtube&logoColor=white&label=Youtube)](https://youtube.com/@ShakilOps)
 [![Medium](https://img.shields.io/badge/Medium-imshakil-orange)](https://medium.com/@imshakil)
-[![Blog](https://img.shields.io/badge/Blog-imshakil-green)](https://imshakil.github.io)
+
 
 ## Summary
 
@@ -51,7 +51,7 @@ I thrive in fast-paced environments where I can automate, secure, and scale syst
 
 ## My Stats
 
-[![leetcode](https://leetcard.jacoblin.cool/imshakil?animation=true)](https://leetcode.com/u/imshakil)
+[![leetcode](https://leetcard.jacoblin.cool/imshakil?&ext=heatmap)](https://leetcode.com/u/imshakil)
 
 ![langauge](https://github-readme-stats.vercel.app/api/top-langs/?username=imshakil&hide_progress=true&hide=html,lua,c,makefile&&count_private=true&langs_count=10&theme=dark)
 ![repository](https://github-readme-stats.vercel.app/api?username=imshakil&&count_private=true&theme=dark)
@@ -60,6 +60,5 @@ I thrive in fast-paced environments where I can automate, secure, and scale syst
 
 ![Achievements](https://github-profile-trophy.vercel.app/?username=imshakil&count_private=true&column=-1&theme=dark)
 
-[![LeetCode](https://img.shields.io/badge/leetcode-imshakil-yellow?&logo=leetcode)](https://leetcode.com/u/imshakil)
 [![wakatime](https://wakatime.com/badge/user/9cc79b11-4d33-4c8e-918e-6503b22946fc.svg)](https://wakatime.com/@imShakil)
 ![Views](https://komarev.com/ghpvc/?username=imshakil)
