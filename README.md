@@ -62,3 +62,6 @@ I thrive in fast-paced environments where I can automate, secure, and scale syst
 
 [![wakatime](https://wakatime.com/badge/user/9cc79b11-4d33-4c8e-918e-6503b22946fc.svg)](https://wakatime.com/@imShakil)
 ![Views](https://komarev.com/ghpvc/?username=imshakil)
+
+## Random Quotes
+<img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
