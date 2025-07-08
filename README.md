@@ -51,7 +51,7 @@ I thrive in fast-paced environments where I can automate, secure, and scale syst
 
 ## My Stats
 
-[![leetcode](https://leetcard.jacoblin.cool/imshakil?&ext=heatmap)](https://leetcode.com/u/imshakil)
+[![leetcode](https://leetcard.jacoblin.cool/imshakil)](https://leetcode.com/u/imshakil)
 
 ![langauge](https://github-readme-stats.vercel.app/api/top-langs/?username=imshakil&hide_progress=true&hide=html,lua,c,makefile&&count_private=true&langs_count=10&theme=dark)
 ![repository](https://github-readme-stats.vercel.app/api?username=imshakil&&count_private=true&theme=dark)
