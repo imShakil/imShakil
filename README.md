@@ -60,6 +60,7 @@ I thrive in fast-paced environments where I can automate, secure, and scale syst
 
 ![Achievements](https://github-profile-trophy.vercel.app/?username=imshakil&count_private=true&column=-1&theme=dark)
 
+[![LeetCode user imshakil](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fimshakil&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/imshakil/)
 [![wakatime](https://wakatime.com/badge/user/9cc79b11-4d33-4c8e-918e-6503b22946fc.svg)](https://wakatime.com/@imShakil)
 ![Views](https://komarev.com/ghpvc/?username=imshakil)
 
