@@ -1,5 +1,7 @@
 <!-- ### Hi there! 👋 Welcome to My GitHub Profile -->
 
+<img style="width:20%;" src="https://raw.githubusercontent.com/imShakil/imShakil/refs/heads/master/ShakilOps.png" />
+
 
 # Mobarak Hosen Shakil
 
@@ -46,8 +48,8 @@ I thrive in fast-paced environments where I can automate, secure, and scale syst
 
 ## Contact
 
-- [LinkedIn](https://linkedin.com/in/imshakil)
-- [Email](mailto:mh.ice.iu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Mobarak%20Hosen-blue?style=flat&label=Linkedin)](https://www.linkedin.com/in/imshakil)
+[![Email](https://img.shields.io/badge/mh.ice.iu@gmail.com-blue?&style=flat&label=Email)](mailto:mh.ice.iu@gmail.com)
 
 ## My Stats
 
@@ -65,4 +67,4 @@ I thrive in fast-paced environments where I can automate, secure, and scale syst
 ![Views](https://komarev.com/ghpvc/?username=imshakil)
 
 ## Random Quotes
-<img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
+<img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
