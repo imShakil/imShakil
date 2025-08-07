@@ -53,18 +53,46 @@ I thrive in fast-paced environments where I can automate, secure, and scale syst
 
 ## My Stats
 
+### Leetcode Overview
+<div align="center">
+  
+[![LeetCode user imshakil](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fimshakil&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/imshakil/)
+
 [![leetcode](https://leetcard.jacoblin.cool/imshakil)](https://leetcode.com/u/imshakil)
 
-![langauge](https://github-readme-stats.vercel.app/api/top-langs/?username=imshakil&hide_progress=true&hide=html,lua,c,makefile&&count_private=true&langs_count=10&theme=dark)
-![repository](https://github-readme-stats.vercel.app/api?username=imshakil&&count_private=true&theme=dark)
+</div>
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imshakil&theme=dark)](https://github.com/imShakil)
+### GitHub Analytics
 
-![Achievements](https://github-profile-trophy.vercel.app/?username=imshakil&count_private=true&column=-1&theme=dark)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imShakil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imShakil&layout=compact&langs_count=8&theme=tokyonight&hide=html,css,lua,c,makefile,json,xml&hide_progress=true"/>
+</div>
 
-[![LeetCode user imshakil](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fimshakil&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/imshakil/)
-[![wakatime](https://wakatime.com/badge/user/9cc79b11-4d33-4c8e-918e-6503b22946fc.svg)](https://wakatime.com/@imShakil)
-![Views](https://komarev.com/ghpvc/?username=imshakil)
+### WakaTime Stats
+<div align="center">
+  
+  [![wakatime](https://wakatime.com/badge/user/9cc79b11-4d33-4c8e-918e-6503b22946fc.svg)](https://wakatime.com/@imShakil)
 
-## Random Quotes
-<img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=imshakil&theme=tokyonight)](https://github.com/imShakil)
+
+</div>
+
+### GitHub Achievements
+<div align="center">
+
+  ![Achievements](https://github-profile-trophy.vercel.app/?username=imshakil&count_private=true&row=2&column=4&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  
+  <img alt="quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=imShakil&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+  </p>
+  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+</div>
