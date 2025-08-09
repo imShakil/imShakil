@@ -30,14 +30,20 @@ I thrive in fast-paced environments where I can automate, secure, and scale syst
 
 ## Experience
 
+### System Admin & DevOps
+
+**FusionPulse Tech** - Remote, Dhaka [Oct 2024 - Jul 2025]
+
+- Implemented and managed self-hosted GitLab instances, optimized CI/CD pipelines for streamlined development and deployment processes.
+- Provided WordPress development services, ensuring optimal performance through DNS and hosting management.
+- Secured web infrastructure by configuring SSL/TLS and managing web servers like Nginx and Apach
+
 ### Technical Support Engineer
 
-**Gluu Federation** - Remote, USA
+**Gluu Federation** - Remote, USA [Sep 2020 - Feb 2025]
 
 - Provided Tier 1/2 customer supports for community users and enterprise clients implementing Gluu Server for IAM and SSO solutions.
-
 - Collaborated closely with customers to diagnose and resolve authentication, authorization, and directory integration challenges, maintaining over 90% customer satisfaction by adhering to SLO and reported to Engineers on incidents.
-
 - Tested APIs, authentication modules, and documented third-party SSO integration
 
 ## Education
