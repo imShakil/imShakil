@@ -1,6 +1,6 @@
 <!-- ### Hi there! 👋 Welcome to My GitHub Profile -->
 
-<img style="width:20%;" src="https://raw.githubusercontent.com/imShakil/imShakil/refs/heads/master/ShakilOps.png" />
+<!-- <img style="width:20%;" src="https://raw.githubusercontent.com/imShakil/imShakil/refs/heads/master/ShakilOps.png" /> -->
 
 
 # Mobarak Hosen Shakil
