@@ -12,9 +12,9 @@
 
 ## Summary
 
-Passionate about solving complex technical challenges, I specialize in customer support, troubleshooting, and Identity & Access Management (IAM). As a Technical Support Engineer, I have hands-on experience troubleshooting and optimizing authentication solutions, including SAML, OAuth2, and OpenID Connect (OIDC).
+I’m a Technical Support Engineer and aspiring DevOps professional with a passion for solving complex technical problems and streamlining operations. My experience spans troubleshooting, system administration, and deploying secure, scalable solutions across cloud and on-prem environments.
 
-I thrive in fast-paced environments where I can automate, secure, and scale systems to improve efficiency. From setting up cloud-native applications to fine-tuning CI/CD pipelines, I enjoy making technology work seamlessly.
+I have hands-on expertise with authentication protocols like SAML, OAuth2, and OpenID Connect, as well as setting up cloud-native applications, managing containerized environments, and optimizing CI/CD pipelines. I thrive in fast-paced environments where I can automate workflows, enhance system reliability, and ensure smooth end-user experiences.
 
 ## Skills
 
