@@ -57,7 +57,13 @@ I have hands-on expertise with authentication protocols like SAML, OAuth2, and O
 [![LinkedIn](https://img.shields.io/badge/Mobarak%20Hosen-blue?style=flat&label=Linkedin)](https://www.linkedin.com/in/imshakil)
 [![Email](https://img.shields.io/badge/mh.ice.iu@gmail.com-blue?&style=flat&label=Email)](mailto:mh.ice.iu@gmail.com)
 
-## My Stats
+## Latest Medium Blog
+
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imshakil/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imshakil/0" alt="Recent Article 0"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imshakil/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imshakil/1" alt="Recent Article 2"> 
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imshakil/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imshakil/2" alt="Recent Article 2"> 
+
+## Stats
 
 ### Leetcode Overview
 <div align="center">
