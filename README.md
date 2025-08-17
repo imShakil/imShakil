@@ -50,6 +50,10 @@ I have hands-on expertise with authentication protocols like SAML, OAuth2, and O
 
 **Islamic University, Bangladesh** - Kushtia, Bangladesh
 
+- Masters of Engineering in Information and Communication Technology (ICT)
+
+**Islamic University, Bangladesh** - Kushtia, Bangladesh
+
 - Bachelor of Science in Information and Communication Technology (ICT)
 
 ## Contact
