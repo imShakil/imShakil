@@ -9,12 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/Mobarak%20Hosen-blue?style=flat&label=Linkedin)](https://www.linkedin.com/in/imshakil)
 [![Medium](https://img.shields.io/badge/Medium-imshakil-orange)](https://medium.com/@imshakil)
 
-
-## Summary
-
-I’m a Technical Support Engineer and aspiring DevOps professional with a passion for solving complex technical problems and streamlining operations. My experience spans troubleshooting, system administration, and deploying secure, scalable solutions across cloud and on-prem environments.
-
-I have hands-on expertise with authentication protocols like SAML, OAuth2, and OpenID Connect, as well as setting up cloud-native applications, managing containerized environments, and optimizing CI/CD pipelines. I thrive in fast-paced environments where I can automate workflows, enhance system reliability, and ensure smooth end-user experiences.
+I’m a Technical Support Engineer and aspiring DevOps professional with strong expertise in system administration, cloud operations, and automation. I specialize in deployments, CI/CD pipelines, monitoring, and authentication protocols (SAML, OAuth2, OpenID Connect) while ensuring security and scalability across cloud and on-prem environments. I advocate for Infrastructure as Code (IaC) and focus on building reliable, automated, and fault-tolerant systems. My experience spans Linux servers, containerized applications (Docker, Kubernetes), mail servers, Nginx, SSL/TLS, DNS management, and workflow automation to enhance performance and streamline operations.
 
 ## Skills
 
@@ -66,8 +61,9 @@ I have hands-on expertise with authentication protocols like SAML, OAuth2, and O
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imshakil/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imshakil/0" alt="Recent Article 0"> 
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imshakil/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imshakil/1" alt="Recent Article 2"> 
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imshakil/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imshakil/2" alt="Recent Article 2"> 
-
-## Stats
+<details>
+  <summary> Click to See Stats Overview
+  </summary>
 
 ### Leetcode Overview
 <div align="center">
@@ -110,6 +106,8 @@ I have hands-on expertise with authentication protocols like SAML, OAuth2, and O
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imShakil&theme=tokyonight&hide_border=true"/>
 </p>
+
+</details>
 
 ---
 
