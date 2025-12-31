@@ -9,7 +9,10 @@
 [![LinkedIn](https://img.shields.io/badge/Mobarak%20Hosen-blue?style=flat&label=Linkedin)](https://www.linkedin.com/in/imshakil)
 [![Medium](https://img.shields.io/badge/Medium-imshakil-orange)](https://medium.com/@imshakil)
 
-I’m a Technical Support Engineer and aspiring DevOps professional with strong expertise in system administration, cloud operations, and automation. I specialize in deployments, CI/CD pipelines, monitoring, and authentication protocols (SAML, OAuth2, OpenID Connect) while ensuring security and scalability across cloud and on-prem environments. I advocate for Infrastructure as Code (IaC) and focus on building reliable, automated, and fault-tolerant systems. My experience spans Linux servers, containerized applications (Docker, Kubernetes), mail servers, Nginx, SSL/TLS, DNS management, and workflow automation to enhance performance and streamline operations.
+A Cloud and DevOps engineer, bridging Development and Operations, with expertise in managing cloud infrastructure, automating CI/CD pipelines, and delivering reliable, scalable software solutions. 
+
+Experienced in IAM (SAML, OAuth2, OIDC), cloud infrastructure, CI/CD automation, self-hosted GitLab, Docker, and production system operations. Passionate about building secure, scalable, and reliable systems.
+
 
 ## Skills
 
