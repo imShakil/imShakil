@@ -28,6 +28,13 @@ Experienced in IAM (SAML, OAuth2, OIDC), cloud infrastructure, CI/CD automation,
 
 ## Experience
 
+### DevOps Engineer
+**Syftet Limited** - Dhaka, Bangladesh [Apr 2026 - Present]
+
+- As a DevOps Engineer at Syftet Limited, My key role in enhancing the deployment and operations of the Mindstaq application.
+- Automating processes to improve team efficiency and streamline workflows.
+- Collaboration across cross-functional teams, ensuring seamless communication and continuous progress.
+
 ### System Admin & DevOps
 
 **FusionPulse Tech** - Remote, Dhaka [Oct 2024 - Jul 2025]
